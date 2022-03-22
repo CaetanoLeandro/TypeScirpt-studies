@@ -16,11 +16,11 @@ const account: AccountInfo ={
 
 type CharInfo = {
     nickname : string;
-    level : number;
+    level : number
 }
 const char: CharInfo = {
     nickname: "Caetano",
-    level = 100
+    level: 100
 }
 
 // intersection
@@ -31,5 +31,5 @@ const  player: PlayerInfo = {
     name : "Leandro",
     email : "l@gmail.com",
     nickname: "Caetano",
-    level = 100
+    level: 100
 }
